@@ -1,0 +1,37 @@
+[
+ {
+  "channel": "Amazon",
+  "month": "2026-07",
+  "metric": "activeSubscriptions",
+  "value": 1188,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-07",
+  "metric": "subscriptionRevenue",
+  "value": 13306.62,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-09",
+  "metric": "activeSubscriptions",
+  "value": 1261,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-09",
+  "metric": "subscriptionRevenue",
+  "value": 1861.79,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-10",
+  "metric": "subscriptionRevenue",
+  "value": 2089.79,
+  "source": "sophie-sns"
+ }
+]
