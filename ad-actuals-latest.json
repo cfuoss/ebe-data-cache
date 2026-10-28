@@ -1,82 +1,146 @@
 [
  {
   "channel": "Amazon",
-  "date": "2026-10-01",
-  "spend": 446.68,
-  "clicks": 543,
-  "orders": 34,
-  "adSales": 705.5
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-02",
-  "spend": 423.63,
-  "clicks": 384,
-  "orders": 42,
-  "adSales": 697.08
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-03",
-  "spend": 375.59,
-  "clicks": 408,
-  "orders": 46,
-  "adSales": 905.57
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-04",
-  "spend": 500.92,
-  "clicks": 517,
-  "orders": 56,
-  "adSales": 1077.81
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-05",
-  "spend": 532.52,
-  "clicks": 437,
-  "orders": 49,
-  "adSales": 940.89
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-06",
-  "spend": 1002.73,
-  "clicks": 987,
-  "orders": 149,
-  "adSales": 2613.41
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-07",
-  "spend": 1386.24,
-  "clicks": 1035,
-  "orders": 152,
-  "adSales": 2537.91
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-08",
-  "spend": 623.12,
-  "clicks": 528,
-  "orders": 46,
-  "adSales": 1045.26
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-09",
-  "spend": 664.02,
-  "clicks": 578,
-  "orders": 46,
-  "adSales": 990.48
- },
- {
-  "channel": "Amazon",
   "date": "2026-10-10",
-  "spend": 643.87,
-  "clicks": 588,
-  "orders": 39,
-  "adSales": 870.45
+  "spend": 640.71,
+  "clicks": 585,
+  "orders": 46,
+  "adSales": 975.38
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-11",
+  "spend": 595.59,
+  "clicks": 563,
+  "orders": 60,
+  "adSales": 1182.26
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-12",
+  "spend": 561.2,
+  "clicks": 460,
+  "orders": 41,
+  "adSales": 838.36
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-13",
+  "spend": 468.65,
+  "clicks": 400,
+  "orders": 36,
+  "adSales": 896.43
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-14",
+  "spend": 749.17,
+  "clicks": 534,
+  "orders": 53,
+  "adSales": 1319.25
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-15",
+  "spend": 266.26,
+  "clicks": 199,
+  "orders": 33,
+  "adSales": 604.21
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-16",
+  "spend": 300.27,
+  "clicks": 242,
+  "orders": 40,
+  "adSales": 1163.65
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-17",
+  "spend": 222.45,
+  "clicks": 218,
+  "orders": 31,
+  "adSales": 692.52
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-18",
+  "spend": 266.58,
+  "clicks": 237,
+  "orders": 34,
+  "adSales": 750.57
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-19",
+  "spend": 331.37,
+  "clicks": 267,
+  "orders": 31,
+  "adSales": 1145.14
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-20",
+  "spend": 324.48,
+  "clicks": 265,
+  "orders": 42,
+  "adSales": 955.99
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-21",
+  "spend": 328.61,
+  "clicks": 215,
+  "orders": 13,
+  "adSales": 215.86
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-22",
+  "spend": 304.2,
+  "clicks": 252,
+  "orders": 28,
+  "adSales": 639.12
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-23",
+  "spend": 286.54,
+  "clicks": 232,
+  "orders": 25,
+  "adSales": 630.79
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-24",
+  "spend": 272.4,
+  "clicks": 249,
+  "orders": 24,
+  "adSales": 604.7
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-25",
+  "spend": 319.57,
+  "clicks": 287,
+  "orders": 35,
+  "adSales": 823.5
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-26",
+  "spend": 334.39,
+  "clicks": 286,
+  "orders": 31,
+  "adSales": 601.66
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-10-27",
+  "spend": 336.81,
+  "clicks": 288,
+  "orders": 26,
+  "adSales": 529.37
  }
 ]

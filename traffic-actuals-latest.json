@@ -1,388 +1,10 @@
 [
  {
   "asin": "B0F2TML2ZX",
-  "date": "2026-10-01",
-  "sessions": 43,
-  "unitsOrdered": 4,
-  "salesAmount": 139.96
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-01",
-  "sessions": 16,
-  "unitsOrdered": 3,
-  "salesAmount": 94.97
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-01",
-  "sessions": 365,
-  "unitsOrdered": 17,
-  "salesAmount": 305.83
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-01",
-  "sessions": 107,
-  "unitsOrdered": 12,
-  "salesAmount": 419.88
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-01",
-  "sessions": 56,
-  "unitsOrdered": 17,
-  "salesAmount": 374.83
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-01",
-  "sessions": 713,
-  "unitsOrdered": 84,
-  "salesAmount": 2064.34
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-02",
-  "sessions": 34,
-  "unitsOrdered": 2,
-  "salesAmount": 71.98
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-02",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-02",
-  "sessions": 198,
-  "unitsOrdered": 19,
-  "salesAmount": 335.81
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-02",
-  "sessions": 119,
-  "unitsOrdered": 9,
-  "salesAmount": 320.91
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-02",
-  "sessions": 49,
-  "unitsOrdered": 16,
-  "salesAmount": 339.84
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-02",
-  "sessions": 530,
-  "unitsOrdered": 76,
-  "salesAmount": 1718.88
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-03",
-  "sessions": 30,
-  "unitsOrdered": 3,
-  "salesAmount": 107.97
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-03",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-03",
-  "sessions": 222,
-  "unitsOrdered": 25,
-  "salesAmount": 446.75
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-03",
-  "sessions": 95,
-  "unitsOrdered": 16,
-  "salesAmount": 575.84
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-03",
-  "sessions": 43,
-  "unitsOrdered": 12,
-  "salesAmount": 219.88
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-03",
-  "sessions": 583,
-  "unitsOrdered": 86,
-  "salesAmount": 2048.7
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-04",
-  "sessions": 39,
-  "unitsOrdered": 7,
-  "salesAmount": 249.93
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-04",
-  "sessions": 3,
-  "unitsOrdered": 2,
-  "salesAmount": 49.98
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-04",
-  "sessions": 288,
-  "unitsOrdered": 18,
-  "salesAmount": 371.82
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-04",
-  "sessions": 116,
-  "unitsOrdered": 15,
-  "salesAmount": 530.85
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-04",
-  "sessions": 60,
-  "unitsOrdered": 23,
-  "salesAmount": 444.77
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-04",
-  "sessions": 719,
-  "unitsOrdered": 94,
-  "salesAmount": 2168.66
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-05",
-  "sessions": 7,
-  "unitsOrdered": 2,
-  "salesAmount": 71.98
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-05",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-05",
-  "sessions": 206,
-  "unitsOrdered": 25,
-  "salesAmount": 461.75
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-05",
-  "sessions": 128,
-  "unitsOrdered": 18,
-  "salesAmount": 635.52
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-05",
-  "sessions": 289,
-  "unitsOrdered": 32,
-  "salesAmount": 539.68
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-05",
-  "sessions": 786,
-  "unitsOrdered": 112,
-  "salesAmount": 2838.02
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-06",
-  "sessions": 142,
-  "unitsOrdered": 20,
-  "salesAmount": 539.8
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-06",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-06",
-  "sessions": 593,
-  "unitsOrdered": 85,
-  "salesAmount": 1385.54
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-06",
-  "sessions": 304,
-  "unitsOrdered": 56,
-  "salesAmount": 1529.44
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-06",
-  "sessions": 504,
-  "unitsOrdered": 111,
-  "salesAmount": 1923.89
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-06",
-  "sessions": 1404,
-  "unitsOrdered": 403,
-  "salesAmount": 7322.44
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-07",
-  "sessions": 125,
-  "unitsOrdered": 11,
-  "salesAmount": 296.89
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-07",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-07",
-  "sessions": 410,
-  "unitsOrdered": 51,
-  "salesAmount": 697.71
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-07",
-  "sessions": 358,
-  "unitsOrdered": 57,
-  "salesAmount": 1715.43
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-07",
-  "sessions": 23,
-  "unitsOrdered": 1,
-  "salesAmount": 34.99
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-07",
-  "sessions": 1927,
-  "unitsOrdered": 331,
-  "salesAmount": 5724.41
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-08",
-  "sessions": 23,
-  "unitsOrdered": 3,
-  "salesAmount": 107.97
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-08",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-08",
-  "sessions": 265,
-  "unitsOrdered": 17,
-  "salesAmount": 275.83
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-08",
-  "sessions": 206,
-  "unitsOrdered": 22,
-  "salesAmount": 791.78
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-08",
-  "sessions": 49,
-  "unitsOrdered": 2,
-  "salesAmount": 29.98
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-08",
-  "sessions": 501,
-  "unitsOrdered": 88,
-  "salesAmount": 1878.72
- },
- {
-  "asin": "B0F2TML2ZX",
-  "date": "2026-10-09",
-  "sessions": 51,
-  "unitsOrdered": 8,
-  "salesAmount": 264.62
- },
- {
-  "asin": "B0GNWN9P1W",
-  "date": "2026-10-09",
-  "sessions": 0,
-  "unitsOrdered": 0,
-  "salesAmount": 0.0
- },
- {
-  "asin": "B0GP2VN4W5",
-  "date": "2026-10-09",
-  "sessions": 248,
-  "unitsOrdered": 26,
-  "salesAmount": 530.74
- },
- {
-  "asin": "B0GZ2Y9TYX",
-  "date": "2026-10-09",
-  "sessions": 228,
-  "unitsOrdered": 23,
-  "salesAmount": 824.77
- },
- {
-  "asin": "B0H12RRFS3",
-  "date": "2026-10-09",
-  "sessions": 38,
-  "unitsOrdered": 1,
-  "salesAmount": 14.99
- },
- {
-  "asin": "B0HF1FS3QM",
-  "date": "2026-10-09",
-  "sessions": 731,
-  "unitsOrdered": 97,
-  "salesAmount": 2226.67
- },
- {
-  "asin": "B0F2TML2ZX",
   "date": "2026-10-10",
   "sessions": 45,
-  "unitsOrdered": 3,
-  "salesAmount": 107.97
+  "unitsOrdered": 2,
+  "salesAmount": 71.98
  },
  {
   "asin": "B0GNWN9P1W",
@@ -395,15 +17,15 @@
   "asin": "B0GP2VN4W5",
   "date": "2026-10-10",
   "sessions": 238,
-  "unitsOrdered": 27,
-  "salesAmount": 569.73
+  "unitsOrdered": 26,
+  "salesAmount": 554.74
  },
  {
   "asin": "B0GZ2Y9TYX",
   "date": "2026-10-10",
   "sessions": 123,
-  "unitsOrdered": 7,
-  "salesAmount": 251.93
+  "unitsOrdered": 6,
+  "salesAmount": 215.94
  },
  {
   "asin": "B0H12RRFS3",
@@ -416,7 +38,721 @@
   "asin": "B0HF1FS3QM",
   "date": "2026-10-10",
   "sessions": 650,
-  "unitsOrdered": 99,
-  "salesAmount": 2443.39
+  "unitsOrdered": 91,
+  "salesAmount": 2203.55
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-11",
+  "sessions": 28,
+  "unitsOrdered": 2,
+  "salesAmount": 71.98
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-11",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-11",
+  "sessions": 249,
+  "unitsOrdered": 15,
+  "salesAmount": 266.85
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-11",
+  "sessions": 130,
+  "unitsOrdered": 13,
+  "salesAmount": 431.88
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-11",
+  "sessions": 33,
+  "unitsOrdered": 1,
+  "salesAmount": 14.99
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-11",
+  "sessions": 1019,
+  "unitsOrdered": 129,
+  "salesAmount": 2931.94
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-12",
+  "sessions": 60,
+  "unitsOrdered": 4,
+  "salesAmount": 143.96
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-12",
+  "sessions": 4,
+  "unitsOrdered": 1,
+  "salesAmount": 24.99
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-12",
+  "sessions": 76,
+  "unitsOrdered": 17,
+  "salesAmount": 368.83
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-12",
+  "sessions": 142,
+  "unitsOrdered": 13,
+  "salesAmount": 464.87
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-12",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-12",
+  "sessions": 699,
+  "unitsOrdered": 117,
+  "salesAmount": 2853.19
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-13",
+  "sessions": 92,
+  "unitsOrdered": 8,
+  "salesAmount": 285.92
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-13",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-13",
+  "sessions": 59,
+  "unitsOrdered": 14,
+  "salesAmount": 281.86
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-13",
+  "sessions": 157,
+  "unitsOrdered": 16,
+  "salesAmount": 575.84
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-13",
+  "sessions": 40,
+  "unitsOrdered": 4,
+  "salesAmount": 79.96
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-13",
+  "sessions": 617,
+  "unitsOrdered": 93,
+  "salesAmount": 2198.42
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-14",
+  "sessions": 43,
+  "unitsOrdered": 4,
+  "salesAmount": 143.96
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-14",
+  "sessions": 4,
+  "unitsOrdered": 1,
+  "salesAmount": 24.99
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-14",
+  "sessions": 77,
+  "unitsOrdered": 16,
+  "salesAmount": 329.84
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-14",
+  "sessions": 85,
+  "unitsOrdered": 11,
+  "salesAmount": 395.89
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-14",
+  "sessions": 76,
+  "unitsOrdered": 2,
+  "salesAmount": 29.98
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-14",
+  "sessions": 763,
+  "unitsOrdered": 113,
+  "salesAmount": 2633.19
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-15",
+  "sessions": 45,
+  "unitsOrdered": 3,
+  "salesAmount": 105.97
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-15",
+  "sessions": 6,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-15",
+  "sessions": 35,
+  "unitsOrdered": 11,
+  "salesAmount": 230.89
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-15",
+  "sessions": 59,
+  "unitsOrdered": 13,
+  "salesAmount": 467.87
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-15",
+  "sessions": 28,
+  "unitsOrdered": 2,
+  "salesAmount": 29.98
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-15",
+  "sessions": 356,
+  "unitsOrdered": 84,
+  "salesAmount": 1998.66
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-16",
+  "sessions": 61,
+  "unitsOrdered": 13,
+  "salesAmount": 398.27
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-16",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-16",
+  "sessions": 48,
+  "unitsOrdered": 12,
+  "salesAmount": 251.88
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-16",
+  "sessions": 72,
+  "unitsOrdered": 13,
+  "salesAmount": 427.67
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-16",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-16",
+  "sessions": 387,
+  "unitsOrdered": 84,
+  "salesAmount": 2003.63
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-17",
+  "sessions": 11,
+  "unitsOrdered": 1,
+  "salesAmount": 35.99
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-17",
+  "sessions": 5,
+  "unitsOrdered": 3,
+  "salesAmount": 94.97
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-17",
+  "sessions": 53,
+  "unitsOrdered": 14,
+  "salesAmount": 305.87
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-17",
+  "sessions": 64,
+  "unitsOrdered": 6,
+  "salesAmount": 212.94
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-17",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-17",
+  "sessions": 584,
+  "unitsOrdered": 95,
+  "salesAmount": 2083.55
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 3,
+  "salesAmount": 107.97
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 1,
+  "salesAmount": 24.99
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 17,
+  "salesAmount": 314.83
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 11,
+  "salesAmount": 395.89
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-18",
+  "sessions": 0,
+  "unitsOrdered": 110,
+  "salesAmount": 2448.32
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-19",
+  "sessions": 44,
+  "unitsOrdered": 2,
+  "salesAmount": 71.98
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-19",
+  "sessions": 8,
+  "unitsOrdered": 4,
+  "salesAmount": 119.96
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-19",
+  "sessions": 54,
+  "unitsOrdered": 14,
+  "salesAmount": 263.86
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-19",
+  "sessions": 90,
+  "unitsOrdered": 31,
+  "salesAmount": 905.09
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-19",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-19",
+  "sessions": 800,
+  "unitsOrdered": 83,
+  "salesAmount": 1941.06
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-20",
+  "sessions": 50,
+  "unitsOrdered": 3,
+  "salesAmount": 107.97
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-20",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-20",
+  "sessions": 57,
+  "unitsOrdered": 19,
+  "salesAmount": 464.81
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-20",
+  "sessions": 84,
+  "unitsOrdered": 18,
+  "salesAmount": 647.82
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-20",
+  "sessions": 16,
+  "unitsOrdered": 1,
+  "salesAmount": 14.99
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-20",
+  "sessions": 653,
+  "unitsOrdered": 85,
+  "salesAmount": 1993.69
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-21",
+  "sessions": 46,
+  "unitsOrdered": 6,
+  "salesAmount": 205.14
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-21",
+  "sessions": 3,
+  "unitsOrdered": 1,
+  "salesAmount": 24.99
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-21",
+  "sessions": 68,
+  "unitsOrdered": 16,
+  "salesAmount": 371.84
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-21",
+  "sessions": 56,
+  "unitsOrdered": 6,
+  "salesAmount": 203.64
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-21",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-21",
+  "sessions": 545,
+  "unitsOrdered": 113,
+  "salesAmount": 2344.47
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-22",
+  "sessions": 84,
+  "unitsOrdered": 6,
+  "salesAmount": 215.94
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-22",
+  "sessions": 12,
+  "unitsOrdered": 3,
+  "salesAmount": 74.97
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-22",
+  "sessions": 90,
+  "unitsOrdered": 10,
+  "salesAmount": 185.9
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-22",
+  "sessions": 76,
+  "unitsOrdered": 13,
+  "salesAmount": 461.87
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-22",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-22",
+  "sessions": 466,
+  "unitsOrdered": 115,
+  "salesAmount": 2609.13
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-23",
+  "sessions": 25,
+  "unitsOrdered": 5,
+  "salesAmount": 169.15
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-23",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-23",
+  "sessions": 29,
+  "unitsOrdered": 7,
+  "salesAmount": 146.93
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-23",
+  "sessions": 40,
+  "unitsOrdered": 6,
+  "salesAmount": 209.94
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-23",
+  "sessions": 4,
+  "unitsOrdered": 1,
+  "salesAmount": 34.99
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-23",
+  "sessions": 310,
+  "unitsOrdered": 78,
+  "salesAmount": 1549.0
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-24",
+  "sessions": 52,
+  "unitsOrdered": 10,
+  "salesAmount": 359.9
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-24",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-24",
+  "sessions": 28,
+  "unitsOrdered": 5,
+  "salesAmount": 98.95
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-24",
+  "sessions": 44,
+  "unitsOrdered": 10,
+  "salesAmount": 359.9
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-24",
+  "sessions": 30,
+  "unitsOrdered": 10,
+  "salesAmount": 329.9
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-24",
+  "sessions": 332,
+  "unitsOrdered": 86,
+  "salesAmount": 1908.82
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-25",
+  "sessions": 57,
+  "unitsOrdered": 7,
+  "salesAmount": 241.13
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-25",
+  "sessions": 9,
+  "unitsOrdered": 2,
+  "salesAmount": 49.98
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-25",
+  "sessions": 49,
+  "unitsOrdered": 16,
+  "salesAmount": 353.84
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-25",
+  "sessions": 55,
+  "unitsOrdered": 7,
+  "salesAmount": 251.93
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-25",
+  "sessions": 17,
+  "unitsOrdered": 6,
+  "salesAmount": 209.94
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-25",
+  "sessions": 566,
+  "unitsOrdered": 111,
+  "salesAmount": 2529.25
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-26",
+  "sessions": 93,
+  "unitsOrdered": 7,
+  "salesAmount": 251.93
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-26",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-26",
+  "sessions": 52,
+  "unitsOrdered": 20,
+  "salesAmount": 452.8
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-26",
+  "sessions": 46,
+  "unitsOrdered": 8,
+  "salesAmount": 269.62
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-26",
+  "sessions": 28,
+  "unitsOrdered": 8,
+  "salesAmount": 279.92
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-26",
+  "sessions": 401,
+  "unitsOrdered": 106,
+  "salesAmount": 2468.28
+ },
+ {
+  "asin": "B0F2TML2ZX",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 6,
+  "salesAmount": 211.94
+ },
+ {
+  "asin": "B0GNWN9P1W",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 0,
+  "salesAmount": 0.0
+ },
+ {
+  "asin": "B0GP2VN4W5",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 13,
+  "salesAmount": 272.87
+ },
+ {
+  "asin": "B0GZ2Y9TYX",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 6,
+  "salesAmount": 212.94
+ },
+ {
+  "asin": "B0H12RRFS3",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 11,
+  "salesAmount": 364.89
+ },
+ {
+  "asin": "B0HF1FS3QM",
+  "date": "2026-10-27",
+  "sessions": 0,
+  "unitsOrdered": 100,
+  "salesAmount": 2220.42
  }
 ]
