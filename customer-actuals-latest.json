@@ -1,37 +1,58 @@
 [
  {
   "channel": "Amazon",
-  "month": "2026-07",
+  "month": "2026-08",
   "metric": "activeSubscriptions",
-  "value": 1188,
+  "value": 1192,
   "source": "sophie-sns"
  },
  {
   "channel": "Amazon",
-  "month": "2026-07",
+  "month": "2026-08",
   "metric": "subscriptionRevenue",
-  "value": 13306.62,
+  "value": 8948,
   "source": "sophie-sns"
  },
  {
   "channel": "Amazon",
   "month": "2026-09",
   "metric": "activeSubscriptions",
-  "value": 1261,
+  "value": 1248,
   "source": "sophie-sns"
  },
  {
   "channel": "Amazon",
   "month": "2026-09",
   "metric": "subscriptionRevenue",
-  "value": 1861.79,
+  "value": 12430.99,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-10",
+  "metric": "activeSubscriptions",
+  "value": 1333,
   "source": "sophie-sns"
  },
  {
   "channel": "Amazon",
   "month": "2026-10",
   "metric": "subscriptionRevenue",
-  "value": 2154.11,
+  "value": 17869.65,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-11",
+  "metric": "activeSubscriptions",
+  "value": 1324,
+  "source": "sophie-sns"
+ },
+ {
+  "channel": "Amazon",
+  "month": "2026-11",
+  "metric": "subscriptionRevenue",
+  "value": 7837.7,
   "source": "sophie-sns"
  }
 ]
