@@ -1,86 +1,6 @@
 [
  {
   "channel": "Amazon",
-  "date": "2026-10-28",
-  "spend": 383.48,
-  "clicks": 319,
-  "orders": 44,
-  "adSales": 1121.43
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-29",
-  "spend": 323.34,
-  "clicks": 279,
-  "orders": 33,
-  "adSales": 947.41
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-30",
-  "spend": 312.54,
-  "clicks": 249,
-  "orders": 32,
-  "adSales": 1199.44
- },
- {
-  "channel": "Amazon",
-  "date": "2026-10-31",
-  "spend": 204.66,
-  "clicks": 191,
-  "orders": 17,
-  "adSales": 438.77
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-01",
-  "spend": 291.38,
-  "clicks": 272,
-  "orders": 36,
-  "adSales": 899.08
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-02",
-  "spend": 319.97,
-  "clicks": 257,
-  "orders": 27,
-  "adSales": 718.32
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-03",
-  "spend": 307.89,
-  "clicks": 268,
-  "orders": 30,
-  "adSales": 847.5
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-04",
-  "spend": 316.16,
-  "clicks": 281,
-  "orders": 36,
-  "adSales": 818.82
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-05",
-  "spend": 332.81,
-  "clicks": 276,
-  "orders": 40,
-  "adSales": 1019.82
- },
- {
-  "channel": "Amazon",
-  "date": "2026-11-06",
-  "spend": 292.42,
-  "clicks": 248,
-  "orders": 33,
-  "adSales": 1114.11
- },
- {
-  "channel": "Amazon",
   "date": "2026-11-07",
   "spend": 206.86,
   "clicks": 198,
@@ -108,8 +28,8 @@
   "date": "2026-11-10",
   "spend": 258.5,
   "clicks": 221,
-  "orders": 36,
-  "adSales": 849.6
+  "orders": 38,
+  "adSales": 879.58
  },
  {
   "channel": "Amazon",
@@ -124,8 +44,8 @@
   "date": "2026-11-12",
   "spend": 312.74,
   "clicks": 262,
-  "orders": 29,
-  "adSales": 855.62
+  "orders": 31,
+  "adSales": 926.58
  },
  {
   "channel": "Amazon",
@@ -148,7 +68,15 @@
   "date": "2026-11-15",
   "spend": 272.84,
   "clicks": 261,
-  "orders": 25,
-  "adSales": 666.71
+  "orders": 29,
+  "adSales": 769.65
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-11-16",
+  "spend": 175.78,
+  "clicks": 148,
+  "orders": 13,
+  "adSales": 377.81
  }
 ]
