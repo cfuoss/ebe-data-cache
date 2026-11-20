@@ -45,14 +45,14 @@
   "channel": "Amazon",
   "month": "2026-11",
   "metric": "activeSubscriptions",
-  "value": 1321,
+  "value": 1316,
   "source": "sophie-sns"
  },
  {
   "channel": "Amazon",
   "month": "2026-11",
   "metric": "subscriptionRevenue",
-  "value": 9088.24,
+  "value": 10272.44,
   "source": "sophie-sns"
  }
 ]
