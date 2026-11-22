@@ -1,14 +1,6 @@
 [
  {
   "channel": "Amazon",
-  "date": "2026-11-11",
-  "spend": 284.75,
-  "clicks": 261,
-  "orders": 39,
-  "adSales": 1142.41
- },
- {
-  "channel": "Amazon",
   "date": "2026-11-12",
   "spend": 312.74,
   "clicks": 262,
@@ -77,6 +69,14 @@
   "spend": 222.69,
   "clicks": 219,
   "orders": 29,
-  "adSales": 789.6
+  "adSales": 768.6
+ },
+ {
+  "channel": "Amazon",
+  "date": "2026-11-21",
+  "spend": 154.5,
+  "clicks": 147,
+  "orders": 10,
+  "adSales": 348.81
  }
 ]
